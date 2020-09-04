@@ -39,7 +39,7 @@
     "lq-v-file": "^0.1.42",
     "lq-vuetify": "^0.0.61",
     "mdi": "^2.2.43",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.13.1",
     "sass-loader": "^7.1.0",
     "sinon": "^7.5.0",
     "validate.js": "^0.13.1",
